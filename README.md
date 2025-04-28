@@ -15,7 +15,7 @@ Además, se presentan gráficos comparativos que muestran pérdidas financieras 
 
 ![Ejemplo](/assets/img/GlobalCybersecurityThreats.png)
 
-[Descargar Dashboard Interactivo]([https://drive.google.com/file/d/1lwaojRfwq-TAl4FpP0KdDXSUOfhJ7xLb/view?usp=sharing])
+[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1lwaojRfwq-TAl4FpP0KdDXSUOfhJ7xLb/view?usp=sharing)
 
 
 ### Proyecto 2
