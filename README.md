@@ -72,7 +72,7 @@ Proporciona información geográfica y organizativa de los cuarteles o hileras d
 
 El dashboard también incluye herramientas para filtrar datos por fechas, cuarteles y otros criterios relevantes, junto con un resumen de costos y métricas de productividad.
 
-![Ejemplo](/assets/img/SeguimientodeAccidentes.png)
+![Ejemplo](/assets/img/PodayAsistencia.png)
 
 [Dashboard Interactivo Online](https://lookerstudio.google.com/u/0/reporting/c2bb10bc-b712-456e-a331-78b84dc981c8/page/ZUK8D)
 
