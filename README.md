@@ -6,7 +6,9 @@ Soy recién titulado de Analista Programador del CFT San Agustín, Poseo un nive
 ### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/kevin-tovar-a332751a5/)
+
 [WhatsApp](https://wa.me/56956562735)
+
 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=kevin.alexandrovich@gmail.com&su=Asunto%20Predeterminado&body=Mensaje%20Predeterminado)
  
 ## Proyectos
