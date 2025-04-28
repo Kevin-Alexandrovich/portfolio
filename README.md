@@ -17,7 +17,6 @@ Además, se presentan gráficos comparativos que muestran pérdidas financieras 
 
 [Descargar Dashboard Interactivo](https://drive.google.com/file/d/1lwaojRfwq-TAl4FpP0KdDXSUOfhJ7xLb/view?usp=sharing)
 
-<a href="(https://drive.google.com/file/d/1lwaojRfwq-TAl4FpP0KdDXSUOfhJ7xLb/view?usp=sharing)" target="_blank" rel="noopener noreferrer">Descargar Dashboard Interactivo</a>
 
 
 
