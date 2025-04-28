@@ -18,8 +18,19 @@ Además, se presentan gráficos comparativos que muestran pérdidas financieras 
 [Descargar Dashboard Interactivo](https://drive.google.com/file/d/1lwaojRfwq-TAl4FpP0KdDXSUOfhJ7xLb/view?usp=sharing)
 
 
+### Análisis de Ventas
+
+El dashboard de Análisis de Ventas, presenta una vista interactiva del desempeño comercial de multiples tiendas. 
+
+Se observa la sumatoria de la facturación, lo que permite identificar tendencias a lo largo del año. Además, se incluyen secciones detalladas de productos y el total de facturación por ciudad, mostrando el desempeño de cada tienda. 
+
+El panel también exhibe indicadores clave como el total de pedidos, la comisión generada y porcentajes de participación, ofreciendo una visión integral para evaluar la rentabilidad y distribución de ventas en cada segmento.
+
+![Ejemplo](/assets/img/GlobalCybersecurityThreats.png)
+
+[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1BpCvBT09zbzEvL-E8deZeWmgpfrXWJ4F/view)
 
 
-### Proyecto 2
 
--Proyecto 2
+
+
