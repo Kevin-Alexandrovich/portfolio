@@ -50,5 +50,29 @@ Esta herramienta interactiva facilita la comprensión del impacto en la segurida
 
 [Descargar Dashboard Interactivo](https://drive.google.com/file/d/1S-PIzl9EHn0EE79706d-SU-1If-uyfpv/view)
 
+### Control de Poda y Asistencia
 
+El dashboard interactivo Control de Poda y Asistencia, cuenta con los siguientes elementos:
+
+-Módulo de Control de Poda:
+
+Detalla información relacionada con la poda en diferentes áreas, incluyendo datos como metros podados, yemas totales y análisis de factores como el rendimiento o diferencias en las yemas por área.
+
+Se visualizan gráficos y tablas organizadas por nombres de personas, identificadores (como RUT), y áreas o cuarteles.
+
+-Módulo de Control de Asistencia:
+
+Muestra datos sobre los responsables de la poda y su asignación por fechas. Esto incluye nombres de los trabajadores, costos asociados y áreas específicas asignadas.
+
+También incluye comparativas y métricas de productividad asociadas a cada colaborador.
+
+-Mapeo de Control de Poda:
+
+Proporciona información geográfica y organizativa de los cuarteles o hileras donde se realiza la poda, identificando áreas específicas con métricas como las yemas por metro y otros factores de rendimiento.
+
+El dashboard también incluye herramientas para filtrar datos por fechas, cuarteles y otros criterios relevantes, junto con un resumen de costos y métricas de productividad.
+
+![Ejemplo](/assets/img/SeguimientodeAccidentes.png)
+
+[Dashboard Interactivo Online](https://lookerstudio.google.com/u/0/reporting/c2bb10bc-b712-456e-a331-78b84dc981c8/page/ZUK8D)
 
