@@ -26,11 +26,21 @@ Se observa la sumatoria de la facturación, lo que permite identificar tendencia
 
 El panel también exhibe indicadores clave como el total de pedidos, la comisión generada y porcentajes de participación, ofreciendo una visión integral para evaluar la rentabilidad y distribución de ventas en cada segmento.
 
-![Ejemplo](/assets/img/GlobalCybersecurityThreats.png)
+![Ejemplo](/assets/img/AnalisisdeVentas.png)
 
 [Descargar Dashboard Interactivo](https://drive.google.com/file/d/1BpCvBT09zbzEvL-E8deZeWmgpfrXWJ4F/view)
 
+### Seguimiento de Accidentes
 
+El dashboard de seguimiento de accidentes muestra un análisis integral de incidentes viales registrados entre 2018 y 2020, desglosados por estados, con un total de 60,531 accidentes. 
+
+Se visualizan datos porcentuales asignados a cada región y se evidencia la evolución mensual de los eventos, permitiendo identificar tendencias a lo largo del año. Además, el panel incluye indicadores clave como el número de heridos y muertes, junto con clasificaciones de accidentes. 
+
+Esta herramienta interactiva facilita la comprensión del impacto en la seguridad vial y apoya la toma de decisiones en materia de prevención y gestión de emergencias.
+
+![Ejemplo](/assets/img/SeguimientodeAccidentes.png)
+
+[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1S-PIzl9EHn0EE79706d-SU-1If-uyfpv/view)
 
 
 
