@@ -33,7 +33,7 @@ El panel también exhibe indicadores clave como el total de pedidos, la comisió
 
 ![Ejemplo](/assets/img/AnalisisdeVentas.png)
 
-[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1BpCvBT09zbzEvL-E8deZeWmgpfrXWJ4F/view)
+[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1DqX_7Z07T1d1N-2mN-O4RbsC52qpKWI_/view?usp=sharing)
 
 ### Seguimiento de Accidentes
 
@@ -45,7 +45,7 @@ Esta herramienta interactiva facilita la comprensión del impacto en la segurida
 
 ![Ejemplo](/assets/img/SeguimientodeAccidentes.png)
 
-[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1S-PIzl9EHn0EE79706d-SU-1If-uyfpv/view)
+[Descargar Dashboard Interactivo](https://drive.google.com/file/d/1J5i7CNL0j5ji8CPGKP8qlmw2gJdU10o-/view?usp=sharing)
 
 ### Control de Poda y Asistencia
 
